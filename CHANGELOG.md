@@ -1,5 +1,10 @@
 # Changelog
 
+## 12.3.3-1 (2026-11-16)
+
+- README: added the Deploy on Railway button for the published template (`mariadb`). No change to the image or settings.
+
+
 ## 12.3.3 (2026-11-16)
 
 - First release: MariaDB 12.3.3 LTS (`mariadb:12.3.3@sha256:4ebbcf100a3ba320766dfa0e1af008df12261301db6ef72798c7650f70794aed`).

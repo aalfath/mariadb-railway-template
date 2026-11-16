@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/mariadb?utm_medium=integration&utm_source=button&utm_campaign=mariadb)
+
 # MariaDB on Railway
 
 A Railway template for [MariaDB Server](https://mariadb.org/), the open-source relational database that is compatible with MySQL.
